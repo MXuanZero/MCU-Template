@@ -1,0 +1,6 @@
+.idea/*
+.vscode/*
+!.vscode/tasks.json
+build/*
+uvision/*
+!uvision/*.uvprojx

@@ -1,0 +1,5 @@
+.vscode
+Build/*
+MDK-ARM/*
+!MDK-ARM/GD32F303-Porject.uvoptx
+!MDK-ARM/GD32F303-Porject.uvprojx
